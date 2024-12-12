@@ -1,6 +1,6 @@
 # Sujeeth Kumar - Portfolio Website
 
-![Portfolio Preview](https://i.imgur.com/xKQXHEG.png)
+![{01082514-2449-4B9B-B9A2-682D34A18EE9}](https://github.com/user-attachments/assets/4582d7a2-46ec-403a-86d0-71920d955311)
 
 ## 🚀 Overview
 
@@ -40,7 +40,7 @@ A modern, responsive portfolio website showcasing my journey as a Cybersecurity 
 
 ## 🎓 Education
 
-- B.Tech in Computer Science and Engineering (2022-2025)
+- B.Tech in Computer Science and Engineering (IOT and Cyber Security Including Blockchain Technology) (2022-2025)
 - Diploma in Computer Science and Engineering (2015-2022)
 
 ## 📫 Get in Touch
